@@ -1,0 +1,8 @@
+.delete-item-image {
+  width: auto;
+  height: 15px;
+}
+
+.delete-btn {
+  cursor: pointer;
+}

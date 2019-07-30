@@ -1,0 +1,10 @@
+.counter {
+  display: flex;
+  margin: 0 8px;
+}
+
+.counter-quantity {
+  margin: 0 12px;
+  min-width: 18px;
+  text-align: center;
+}

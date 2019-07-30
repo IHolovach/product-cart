@@ -1,0 +1,25 @@
+.cart-item-wrapper {
+  border-bottom: 1px solid #e1dede;
+}
+
+.cart-item-text-info {
+  flex: 1;
+}
+
+.cart-flex {
+  display: flex;
+  align-items: center;
+  margin: 0 16px 8px;
+  padding: 0 0 8px;
+}
+
+.cart-item-quantity-info {
+  display: flex;
+  align-items: center;
+  margin: 0 16px;
+}
+
+.cart-item-total-price {
+  min-width: 30px;
+  text-align: center;
+}
